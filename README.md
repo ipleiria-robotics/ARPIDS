@@ -3,8 +3,8 @@
 # Aprendizagem por Reforço em Processos Industriais Discretos Sequenciais
  Este é um projeto desenvolvido no âmbito da tese de mestrado ["Comparação de Métodos de Aprendizagem por Reforço em Processos Industriais Discretos Sequenciais"](Thesis/dissertation.pdf), realizada sob a orientação do Doutor Luís Miguel Perdigoto e do Doutor Luís Manuel Conde Bento, na Escola Superior de Tecnologia e Gestão ESTG, no Politécnico de Leiria. 
 
- Este repositório contém os documentos, códigos, vídeos, resultados e tutoriais para que o usuário replique os algoritmos de Aprendizagem por Reforço, permitindo experimentar diferentes métodos e configurações, comparando a performance de cada ao processo industrial simulado.
- 
+ Este repositório contém os documentos, códigos, vídeos, resultados e tutoriais para que o usuário replique os algoritmos de Aprendizagem por Reforço, permitindo experimentar diferentes métodos e configurações, comparando a performance de cada um no processo industrial simulado.
+
 
  <p align="left">
   <img src="Tutorials/Videos/Reference.gif" alt="gif" width="65%" />
@@ -32,7 +32,7 @@ Tutorial completo de como treinar e utilizar a garra manipuladora de latas no pr
 # [Vídeos](Tutorials/videos.md)
 Vídeos mostrando a performance de algoritmos aplicados à esteira da caixa de latas e à garra manipuladora de latas.
 
-# [Resultados](Results/videos.md)
+# [Resultados](Results/statistics.md)
 Resultados de algoritmos aplicados à esteira da caixa de latas e à garra manipuladora de latas.
 
 
