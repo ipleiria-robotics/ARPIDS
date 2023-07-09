@@ -33,7 +33,7 @@ Tutorial completo de como treinar e utilizar a garra manipuladora de latas no pr
 Vídeos mostrando a performance de algoritmos aplicados à esteira da caixa de latas e à garra manipuladora de latas.
 
 # [Resultados](Results/statistics.md)
-Resultados de algoritmos aplicados à esteira da caixa de latas e à garra manipuladora de latas.
+Resultados de cada algoritmo aplicado à esteira da caixa de latas e à garra manipuladora de latas.
 
 
 
