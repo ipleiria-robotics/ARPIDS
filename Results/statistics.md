@@ -35,7 +35,7 @@
 
 ## Recompensa média dos melhores modelos aplicados à esteira de caixa de latas:
 
-<p align="center"><img src="Images/recompensa_algoritmos_ecl.png" style="width:70%"></p>
+<p align="center"><img src="Images/recompensa_algoritmos_ecl.png" style="width:100%"></p>
 
 # Dados estatísticos de recompensas médias de cada modelo aplicado à garra manipuladora de caixas:
 
@@ -63,6 +63,6 @@
 
 ## Recompensa média dos melhores modelos aplicados à garra manipuladora de latas:
 
-<p align="center"><img src="Images/recompensa_algoritmos_gml.png" style="width:70%"></p>
+<p align="center"><img src="Images/recompensa_algoritmos_gml.png" style="width:100%"></p>
 
 
