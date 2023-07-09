@@ -1,4 +1,4 @@
-# Dados estatísticos de recompensas médias de cada modelo aplicados à esteira de caixa de latas:
+# Dados estatísticos de recompensas médias de cada modelo aplicado à esteira de caixa de latas:
 
 | Nome | Mínimo | Máximo | Média | Desvio padrão | Conclusão do processo |
 |------|--------|--------|-------|---------------|-----------------------|
@@ -32,4 +32,37 @@
 | PPO buffer 10 - LSTM Layer - 64 X 65 | 0 | 1581 | 923 | 345 | Não |
 | PPO buffer 25 - Dense Layer - 64 X 64 | 98 | 58596 | 1489 | 4978 | Não |
 | PPO buffer 25 - LSTM Layer - 64 X 65 | 0 | 1186 | 666 | 242 | Não |
+
+## Recompensa média dos melhores modelos aplicados à esteira de caixa de latas:
+
+<p align="center"><img src="Images/recompensa_algoritmos_ecl.png" style="width:70%"></p>
+
+# Dados estatísticos de recompensas médias de cada modelo aplicado à garra manipuladora de caixas:
+
+| Nome | Mínimo | Máximo | Média | Desvio padrão | Conclusão do processo | Porcentagem de preenchimento |
+|------|--------|--------|-------|---------------|-----------------------|-----------------------------|
+| DQN buffer 01 - Dense Layer - 64 X 64 | -137152 | -70639 | -108994 | 9103 | Não | - |
+| DQN buffer 10 - Dense Layer - 64 X 64 | -132550 | -54325 | -108946 | 11157 | Não | - |
+| DQN buffer 25 - Dense Layer - 64 X 64 | -139624 | -83250 | -110709 | 9625 | Não | - |
+| TRPO buffer 01 - Dense Layer - 64 X 64 | -10767 | 79016 | 61459 | 14491 | Parcialmente | 33% |
+| TRPO buffer 03 - Dense Layer - 64 X 64 | -16181 | 81642 | 61631 | 20465 | Parcialmente | 67% |
+| TRPO buffer 10 - Dense Layer - 64 X 64 | -11210 | 82889 | 61975 | 20969 | Sim | - |
+| TRPO buffer 25 - Dense Layer - 64 X 64 | -11094 | 82380 | 54253 | 26881 | Parcialmente | 44% |
+| A2C buffer 01 - Dense Layer - 64 X 64 | -167 | 0 | -25 | 61 | Não | - |
+| A2C buffer 03 - Dense Layer - 64 X 64 | -396 | 59 | -3 | 30 | Não | - |
+| A2C buffer 10 - Dense Layer - 64 X 64 | -167 | 0 | -2 | 17 | Não | - |
+| A2C buffer 25 - Dense Layer - 64 X 64 | -167 | 0 | -2 | 18 | Não | - |
+| PPO buffer 01 - Dense Layer - 64 X 64 | -12354 | 33040 | 5069 | 5142 | Não | - |
+| PPO buffer 01 - LSTM Layer - 64 X 64 | -13647 | 1289 | -232 | 1594 | Não | - |
+| PPO buffer 01 - LSTM Layer - 256 X 256 X 256 | -9425 | 0 | -2356 | 4713 | Não | - |
+| PPO buffer 01 - LSTM Layer - 512 X 512 X 512 | -10713 | 0 | -49 | 717 | Não | - |
+| PPO buffer 01 - LSTM Layer - 1028 X 1028 X 1028 | -8035 | 0 | -15 | 503 | Não | - |
+| PPO buffer 03 - Dense Layer - 64 X 64 | -13103 | 39842 | 9741 | 7705 | Não | - |
+| PPO buffer 10 - Dense Layer - 64 X 64 | -38703 | 71674 | 40331 | 19410 | Parcialmente | 33% |
+| PPO buffer 25 - Dense Layer - 64 X 64 | -11843 | 25761 | 5571 | 4745 | Não | - |
+
+## Recompensa média dos melhores modelos aplicados à garra manipuladora de latas:
+
+<p align="center"><img src="Images/recompensa_algoritmos_gml.png" style="width:70%"></p>
+
 
