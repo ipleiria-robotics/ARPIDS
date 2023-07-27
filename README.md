@@ -1,4 +1,12 @@
+Aluno:<br>
+Tiago Resende da Silva <sup>1</sup><br>
 
+Orientadores:<br>
+Luís Perdigoto<sup>1,2</sup><br>
+Luís Conde Bento<sup>1,2</sup><br>
+
+<sup>1</sup> Politécnico de Leiria, Leiria, Portugal;<br>
+<sup>2</sup> Instituto de Sistemas e Robótica, Coimbra, Portugal 
 
 # Aprendizagem por Reforço em Processos Industriais Discretos Sequenciais
  Este é um projeto desenvolvido no âmbito da tese de mestrado ["Comparação de Métodos de Aprendizagem por Reforço em Processos Industriais Discretos Sequenciais"](Thesis/dissertation.pdf), realizada sob a orientação do Doutor Luís Miguel Perdigoto e do Doutor Luís Manuel Conde Bento, na Escola Superior de Tecnologia e Gestão ESTG, no Politécnico de Leiria. 
